@@ -1,0 +1,21 @@
+C:\Users\bolis\Documents\Visual Studio 2017\Projects\Współbiegi\Współbiegi\bin\Debug\Współbiegi.exe.config
+C:\Users\bolis\Documents\Visual Studio 2017\Projects\Współbiegi\Współbiegi\bin\Debug\Współbiegi.exe
+C:\Users\bolis\Documents\Visual Studio 2017\Projects\Współbiegi\Współbiegi\bin\Debug\Współbiegi.pdb
+C:\Users\bolis\Documents\Visual Studio 2017\Projects\Współbiegi\Współbiegi\obj\Debug\Współbiegi.csprojResolveAssemblyReference.cache
+C:\Users\bolis\Documents\Visual Studio 2017\Projects\Współbiegi\Współbiegi\obj\Debug\Współbiegi.csproj.CoreCompileInputs.cache
+C:\Users\bolis\Documents\Visual Studio 2017\Projects\Współbiegi\Współbiegi\obj\Debug\Współbiegi.exe
+C:\Users\bolis\Documents\Visual Studio 2017\Projects\Współbiegi\Współbiegi\obj\Debug\Współbiegi.pdb
+F:\Studia\visual\Współbiegi\Współbiegi\obj\Debug\Współbiegi.csprojResolveAssemblyReference.cache
+F:\Studia\visual\Współbiegi\Współbiegi\obj\Debug\Współbiegi.csproj.CoreCompileInputs.cache
+F:\Studia\visual\Współbiegi\Współbiegi\obj\Debug\Współbiegi.exe
+F:\Studia\visual\Współbiegi\Współbiegi\obj\Debug\Współbiegi.pdb
+F:\Studia\visual\Współbiegi\Współbiegi\bin\Debug\Współbiegi.exe.config
+F:\Studia\visual\Współbiegi\Współbiegi\bin\Debug\Współbiegi.exe
+F:\Studia\visual\Współbiegi\Współbiegi\bin\Debug\Współbiegi.pdb
+C:\Users\Kamil\source\repos\Współbiegi\Współbiegi\bin\Debug\Współbiegi.exe.config
+C:\Users\Kamil\source\repos\Współbiegi\Współbiegi\bin\Debug\Współbiegi.exe
+C:\Users\Kamil\source\repos\Współbiegi\Współbiegi\bin\Debug\Współbiegi.pdb
+C:\Users\Kamil\source\repos\Współbiegi\Współbiegi\obj\Debug\Współbiegi.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\source\repos\Współbiegi\Współbiegi\obj\Debug\Współbiegi.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\Współbiegi\Współbiegi\obj\Debug\Współbiegi.exe
+C:\Users\Kamil\source\repos\Współbiegi\Współbiegi\obj\Debug\Współbiegi.pdb
